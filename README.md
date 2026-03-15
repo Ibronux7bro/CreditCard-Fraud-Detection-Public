@@ -38,4 +38,4 @@ Visual results are stored under `Visualizations/`.
 This repository is part of the course project submitted on [Blackboard LMS] and includes all necessary components.
 
 > **GitHub Link for Submission**:  
-> [https://github.com/noufpython/CreditCard-Fraud-Detection](https://github.com/noufpython/CreditCard-Fraud-Detection)
+> [https://github.com/Ibronux7bro/CreditCard-Fraud-Detection](https://github.com/Ibronux7bro/CreditCard-Fraud-Detection-Public)
